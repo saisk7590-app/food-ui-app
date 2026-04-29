@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "The Italian Kitchen",
+    "cuisine": "Italian",
+    "rating": 4.5,
+    "deliveryTime": "30-40 min"
+  },
+  {
+    "id": 2,
+    "name": "Dragon's Wok",
+    "cuisine": "Chinese",
+    "rating": 4.3,
+    "deliveryTime": "25-35 min"
+  },
+  {
+    "id": 3,
+    "name": "Spice Route",
+    "cuisine": "Indian",
+    "rating": 4.7,
+    "deliveryTime": "35-45 min"
+  },
+  {
+    "id": 4,
+    "name": "Burger Haven",
+    "cuisine": "American",
+    "rating": 4.2,
+    "deliveryTime": "20-30 min"
+  },
+  {
+    "id": 5,
+    "name": "Sushi Supreme",
+    "cuisine": "Japanese",
+    "rating": 4.6,
+    "deliveryTime": "30-40 min"
+  }
+]

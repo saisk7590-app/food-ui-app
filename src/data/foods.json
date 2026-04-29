@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "restaurantId": 1,
+    "price": 12.99,
+    "description": "Classic pizza with fresh mozzarella, tomato, and basil",
+    "rating": 4.5,
+    "image": "pizza.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pad Thai",
+    "restaurantId": 2,
+    "price": 10.99,
+    "description": "Stir-fried rice noodles with shrimp and vegetables",
+    "rating": 4.4,
+    "image": "pad_thai.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Butter Chicken",
+    "restaurantId": 3,
+    "price": 13.99,
+    "description": "Tender chicken in creamy tomato sauce with aromatic spices",
+    "rating": 4.6,
+    "image": "butter_chicken.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Classic Burger",
+    "restaurantId": 4,
+    "price": 9.99,
+    "description": "Juicy beef patty with lettuce, tomato, and special sauce",
+    "rating": 4.3,
+    "image": "burger.jpg"
+  },
+  {
+    "id": 5,
+    "name": "California Roll",
+    "restaurantId": 5,
+    "price": 11.99,
+    "description": "Fresh sushi with crab, avocado, and cucumber",
+    "rating": 4.5,
+    "image": "sushi_roll.jpg"
+  }
+]
